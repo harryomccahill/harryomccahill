@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harry
-- 👀 I’m interested in Astrophysics, Freediving and coding of course!
-- 🌱 I’m currently learning The basics of web development and Python
+- 👀 I’m interested in Astrophysics, Freediving and Coding!
+- 🌱 I’m currently learning The basics of web development and Python.
 - 💞️ I’m looking to collaborate on projects involved in Python and or HTML and Javascript
 - 📫 How to reach me, get me on here. 
 
